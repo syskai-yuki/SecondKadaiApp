@@ -74,17 +74,17 @@
                                 <rect key="frame" x="60" y="300" width="273" height="242"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wAk-Sf-bcv">
-                                        <rect key="frame" x="36.666666666666686" y="0.0" width="200" height="20"/>
+                                        <rect key="frame" x="36.666666666666686" y="0.0" width="200" height="30"/>
                                         <constraints>
-                                            <constraint firstAttribute="height" constant="20" id="Xb6-ST-92X"/>
-                                            <constraint firstAttribute="width" constant="200" id="skE-jc-0BT"/>
+                                            <constraint firstAttribute="height" constant="30" id="0OE-Rb-2qx"/>
+                                            <constraint firstAttribute="width" constant="200" id="bbC-wy-LHH"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wpX-t9-wMk">
-                                        <rect key="frame" x="108.66666666666666" y="128" width="56" height="114"/>
+                                        <rect key="frame" x="108.66666666666666" y="138" width="56" height="104"/>
                                         <state key="normal" title="Button"/>
                                         <buttonConfiguration key="configuration" style="plain" title="戻る"/>
                                         <connections>
